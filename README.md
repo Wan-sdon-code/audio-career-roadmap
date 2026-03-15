@@ -1,13 +1,10 @@
-![Status](https://img.shields.io/badge/Status-Deploying_to_AAA-red?style=for-the-badge&logo=target)
-![Location](https://img.shields.io/badge/Base-Singapore_🇸🇬-white?style=for-the-badge)
-
 # 🎮 The Bungie Bound Roadmap
+> **Objective:** Transitioning from Manager to AAA Technical Sound Designer
+> **Deployment Base:** Singapore 🇸🇬
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Status](https://img.shields.io/badge/Status-Leveling_Up-red?style=flat-square)
 
-> **Mission Objective:** Leveling Up from Manager to AAA Technical Sound Design
-
-
-> **Base of Operations:** Singapore 🇸🇬 | Technical Audio Specialist
 ---
 
 ## 🛠️ LEVEL 1: The Skills Pivot (Months 1–6)
@@ -61,4 +58,11 @@ Next appraisal, tell them: *"I’m currently doing the work of an Asst. Manager 
 2.  **Stop posting songs to IG.** Post 30-second clips of "Sound Implementation" to LinkedIn.
    
 3.  **Record 5 unique sounds** at your workplace today that no one else has access to.
+
+## 🚀 The Python CLI Tool
+Included in this repo is `career_roadmap.py`, a custom terminal interface that outlines my transition strategy and salary scaling within the Singapore gamedev ecosystem.
+
+### How to Run:
+```bash
+career_roadmap.py
 
