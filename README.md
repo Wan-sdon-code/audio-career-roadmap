@@ -76,6 +76,3 @@ I believe in using AI as a "force multiplier" to build tools faster, but the **d
 ### How to Run:
 ```bash
 career_roadmap.py
-
-
-
