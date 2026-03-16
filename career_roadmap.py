@@ -1,64 +1,49 @@
-import time
 import sys
+import time
 
-def typewriter(text, delay=0.02):
+def slow_print(text, speed=0.01):
     for char in text:
         sys.stdout.write(char)
         sys.stdout.flush()
-        time.sleep(delay)
+        time.sleep(speed)
     print()
 
-def header(title):
-    print("\n" + "="*60)
-    print(f" {title.center(58)} ")
-    print("="*60)
-
 def main():
-    header("🚀 BUNGIE BOUND: CAREER EVOLUTION SCRIPT")
-    typewriter("Initializing mission parameters for: Sound Design Specialist...")
-    time.sleep(1)
+    print("\n" + "="*50)
+    print("      🎮 BUNGIE BOUND: CAREER ROADMAP v1.0      ")
+    print("="*50)
 
-    # --- LEVEL 1 ---
-    header("🛠️ LEVEL 1: THE SKILLS PIVOT")
-    print("STATUS: IN PROGRESS")
-    typewriter("- DITCH INSTAGRAM: Recruiters are on LinkedIn/ArtStation.")
-    typewriter("- THE 'DESTINY' CHALLENGE: Redesign 60s of gameplay in Wwise.")
-    typewriter("- MASTER MIDDLEWARE: Download Wwise/FMOD immediately.")
-    typewriter("- CODING BASICS: Learn C# triggers for game audio.")
+    print("\n--- LEVEL 1: THE SKILLS PIVOT ---")
+    slow_print("* Action: Replace Instagram with LinkedIn/ArtStation.")
+    slow_print("* Tech Stack: Master Wwise & FMOD (Audio Middleware).")
+    slow_print("* Challenge: Redesign a 60s Destiny clip (Implementation focus).")
+    slow_print("* Code: Learn C# for Unity/Unreal audio hooks.")
 
-    # --- LEVEL 2 ---
-    header("💰 LEVEL 2: THE MONEY BRIDGE")
-    progression = [
-        ("Current", "Asst. Manager (Local)", "$4,000 - $5,500"),
-        ("Pivot 1", "Senior Audio Lead (Ad Agency)", "$6,500 - $9,000"),
-        ("Pivot 2", "Tech Sound Designer (AAA)", "$7,500 - $11,000+"),
-        ("Goal", "Audio Director (Bungie)", "$120k USD+")
-    ]
-    for stage, role, salary in progression:
-        typewriter(f"[{stage}] {role} >> {salary}")
+    print("\n--- LEVEL 2: SALARY SCALING (SGD) ---")
+    print(f"{'Role':<32} | {'Salary Range':<15}")
+    print("-" * 50)
+    print(f"{'Assistant Manager (Now)':<32} | $4.0k - $5.5k")
+    print(f"{'Senior Audio Lead (Bridge)':<32} | $6.5k - $9.0k")
+    print(f"{'Tech Sound Designer (The Leap)':<32} | $7.5k - $11k+")
+    print(f"{'Audio Director (Bungie)':<32} | $120k USD+")
 
-    # --- LEVEL 3 ---
-    header("🛡️ LEVEL 3: WORKPLACE DEFENSE")
-    typewriter("Strategy: Transition to 'Internal Consultant'")
-    print("\n[DO THIS]")
-    print(" - Track song ROI for appraisals.")
-    print(" - Negotiate company-paid Wwise Certs.")
-    print("\n[AVOID THIS]")
-    print(" - No 'Shadow Management' without pay.")
-    print(" - No non-audio admin tasks.")
+    print("\n--- LEVEL 3: WORKPLACE DEFENSE ---")
+    slow_print("🛡️ Goal: Become an 'Internal Specialist'.")
+    slow_print("✅ DO: Negotiate for Wwise Certifications over minor raises.")
+    slow_print("✅ DO: Record unique organic sounds at the current office.")
+    slow_print("❌ DON'T: Volunteer for non-audio admin/logistics.")
 
-    # --- LEVEL 4 ---
-    header("⚡ LEVEL 4: SHARPENING THE AXE")
-    typewriter("1. RECORD MANDAI: Build a secret 'Bungie' Sound Library.")
-    typewriter("2. AUTOMATE ADMIN: Use AI to free up 2 hours/day for Wwise.")
-    typewriter("3. WARM OUTREACH: Ask for 'Critiques,' not 'Jobs.'")
+    print("\n--- ACTIVE QUEST LOG ---")
+    print("[ ] Complete Wwise 101 & 135 Certifications.")
+    print("[ ] Post a 30s 'Sound Implementation' clip to LinkedIn.")
+    print("[ ] Record 5 unique workplace sounds for the Secret Library.")
 
-    # --- ACTION PLAN ---
-    header("✅ NEXT STEPS")
-    print("1. Wwise Adventure Game: https://www.audiokinetic.com/en/education/learn-wwise/")
-    print("2. LinkedIn: Update profile to 'Technical Sound Designer (In-Training)'.")
-    print("3. Field Recording: Record 5 unique textures at work today.")
-    print("="*60)
+    print("\n--- 🧠 PROJECT INTEGRITY ---")
+    print("Expertise: Human (10+ years SG industry experience)")
+    print("Execution: AI-Accelerated (Gemini 3 Flash)")
+    print("\nExpertise is human; execution is AI-accelerated.")
+    print("="*50)
+    print("\nRoadmap Loaded. Eyes up, Guardian.")
 
 if __name__ == "__main__":
     main()
