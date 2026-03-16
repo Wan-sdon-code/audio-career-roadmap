@@ -59,19 +59,17 @@ Next appraisal, tell them: *"I’m currently doing the work of an Asst. Manager 
    
 3.  **Record 5 unique sounds** at your workplace today that no one else has access to.
 
+---
+
+🧠 Project Integrity Human-AI Collaboration:
+
+
+This roadmap's strategic direction, salary data, and industry research are 100% human-driven, backed by 10+ years of experience in the Singapore ecosystem. Gemini AI was utilized as a "force multiplier" specifically for Python CLI structuring and syntax optimization
+
+---
+
 ## 🚀 The Python CLI Tool
 Included in this repo is `career_roadmap.py`, a custom terminal interface that outlines my transition strategy and salary scaling within the Singapore gamedev ecosystem.
-
----
-
-## 🧠 Project Integrity & Development
-
-**A Note on Human-AI Collaboration:**
-While I leveraged **Gemini AI** to assist with the Python CLI structure and syntax optimization, the core substance of this roadmap—the **salary data**, the **strategic career tiers**, and the **Bungie-specific objectives**—is 100% driven by my own industry research, local networking within the Singapore tech ecosystem, and 10+ years of operational experience. 
-
-I believe in using AI as a "force multiplier" to build tools faster, but the **domain expertise** and **strategic direction** are entirely my own.
-
----
 
 ### How to Run:
 ```bash
