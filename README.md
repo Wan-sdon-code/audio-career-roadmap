@@ -1,11 +1,14 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Status](https://img.shields.io/badge/Status-Leveling_Up-red?style=flat-square)
+
 # 🎮 The Bungie Bound Roadmap
 > **Objective:** Transitioning from Manager to AAA Technical Sound Designer
 > **Deployment Base:** Singapore 🇸🇬
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Status](https://img.shields.io/badge/Status-Leveling_Up-red?style=flat-square)
+![Bungie Bound Roadmap Banner](Towardsbungie.png)
 
----
+
+
 
 ## 🛠️ LEVEL 1: The Skills Pivot (Months 1–6)
 *Stop showing them you can write a song. Show them you can build an engine.*
