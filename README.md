@@ -51,7 +51,12 @@
 
 ---
 
-**[ SOURCE CODE ]** 🔗 [career_roadmap.py](./career_roadmap.py)
+### 🐍 Python Version
+You can run this guide as a script in your terminal.
+
+**Raw Script Link:**
+[Download career_roadmap.py (Raw)](career_roadmap.py)
+
 
 ---
 
