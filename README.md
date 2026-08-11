@@ -1,70 +1,217 @@
-# 🎮 Project: Bungie Bound (v1.2)
+# 🎮 Bungie Bound --- Do You Really Start From Zero?
 
-> **The Logic:** Don't take a pay cut to change industries in SG. Use your 10 years of experience to skip entry-level and pivot directly into a Senior role Sound Designers
+> **You've worked for years. Then you decide to change industries. Does
+> everything you've learned suddenly become useless?**
 
----
+Probably not.
 
-## 🕹️ The 6-Step Career Logic
+**Bungie Bound** uses moving from **audio work into gaming** to explore
+a bigger question:
 
-| Step | Component | Simple Logic |
-| :--- | :--- | :--- |
-| **01** | **The Network** | Stop Instagram. Move work to **LinkedIn** and **ArtStation**. |
-| **02** | **The Redesign** | Delete audio from a *Destiny* clip. Replace with 100% your sounds. |
-| **03** | **The Engine** | Master **Wwise** or **FMOD**. These link sound to the game. |
-| **04** | **The Code** | Learn basic **C#**. It is the language that "calls" the sound. |
-| **05** | **The Pivot** | Use your 10-year lead experience to enter as a **Senior/Lead**. |
-| **06** | **The Defense** | Refuse office chores. Ask company to pay for **Wwise classes**. |
+> ## **When we change careers, what skills can we bring with us --- and what do we still need to learn?**
 
----
+------------------------------------------------------------------------
 
-## 💰 Salary Path: The "Upgrade"
-*Goal: Stay in Singapore 🇸🇬 and keep a high salary while switching tracks.*
+## 🔄 Changing Career Doesn't Delete Your Experience
 
-* **The Lead ($6.5k – $9k):** Senior Audio Lead at an Ad/Tech firm.
-* **The Pro ($7.5k – $11k+):** Sound Designer at Ubisoft or Riot.
-* **The End Game ($120k USD+):** Audio Director at **Bungie**.
+Imagine you've worked for 10 years.
 
----
+Then you decide:
 
-## 🛡️ Safety Code: Handling the Current Job
+> **"I want to do something different."**
 
-* **Zero Free Work:** If they don't pay you as a manager, don't do manager work.
-* **Secret Recording:** Use work hours to record unique sounds for your library.
-* **AI Speed-run:** Use AI for paperwork. Use the saved time for Wwise.
-* **The Pitch:** *"I do two jobs. I want extra pay for every original song I write."*
+Suddenly you're looking at jobs asking for skills you've never used.
 
----
+And you think:
 
-## ✅ Your First 3 "System" Steps
+> **"Wah... back to level 1 again ah?"** 😂
 
-1. **The Tutorial:** Play the free **Wwise Learning Game** [here](https://www.audiokinetic.com/en/education/learn-wwise/).
-2. **The Proof:** Post a short video of your sound working in a game engine on LinkedIn.
-3. **The Asset:** Record **5 high-quality sounds** (metal, engine, etc.) at work today.
+Maybe not.
 
----
+Your old job may have already taught you useful things.
 
-### ✍️ Credits
-* **Research & Strategy:** [Wansaidon]
-* **Drafting:** Gemini AI
+For someone coming from audio, that could be:
 
-> **System Check:** You aren't starting over; you are **Re-Coding** your future.
+**Recording. Editing. Problem solving. Teamwork. Working under pressure.
+Leading people.**
 
----
+Someone from another industry will have their own skills.
 
-### 🐍 Python Version
-You can run this guide as a script in your terminal.
+The question is:
 
-**Raw Script Link:**
-[Download career_roadmap.py (Raw)](career_roadmap.py)
+> **Which ones are useful in the new career?**
 
+------------------------------------------------------------------------
 
----
+## 🔍 Don't Guess --- Check the Jobs
 
-### ⚠️ System Warnings & Disclaimers
+For Bungie Bound, I'll look at real game-audio job ads.
 
-* **No Guaranteed Drops:** Salaries and timelines are market estimates, not guarantees. 
-* **TOS Violation Risk:** Recording on company time may violate your employer's IP policies. Ensure you own your assets. 
-* **Self-Patching Required:** This strategy is for informational purposes. Execute at your own risk.
-* **Vocab Warning:** Gaming and tech terms (e.g., "System Migration," "Speed-run") are stylistic metaphors, not literal IT processes.
+I'll check simple things:
 
-**[ END SCRIPT ]**
+**What jobs are available?**
+
+**What skills do they ask for?**
+
+**What software appears most often?**
+
+**How much experience do they want?**
+
+**Do they want previous gaming experience?**
+
+**Do they want examples of your work?**
+
+Then I can compare:
+
+### ✅ What I Already Have
+
+Skills from previous work that may still be useful.
+
+### ⚠️ What I'm Missing
+
+Skills that employers keep asking for but I haven't learned yet.
+
+That's much better than randomly taking courses and hoping for the best.
+
+------------------------------------------------------------------------
+
+## 🛣️ The Simple Career-Switching Path
+
+**What I Know**
+
+↓
+
+**What Can Transfer**
+
+↓
+
+**What's Missing**
+
+↓
+
+**Learn It**
+
+↓
+
+**Build Something**
+
+↓
+
+**Show What I Can Do**
+
+↓
+
+**Apply**
+
+That's it.
+
+Having 10 years of experience doesn't automatically mean:
+
+> **"I should enter the new industry as Senior."**
+
+But it also doesn't necessarily mean:
+
+> **"Everything I've done for 10 years is useless."**
+
+The answer is probably somewhere in between.
+
+**That's what the data should help us find out.**
+
+------------------------------------------------------------------------
+
+## 🌍 This Isn't Only About Gaming
+
+The same idea can apply to someone moving from:
+
+**Engineering → Data**
+
+**Hospitality → HR**
+
+**Retail → Sales**
+
+**Operations → Tech**
+
+**Audio → Gaming**
+
+Different careers.
+
+Same question:
+
+> **What can I bring with me, and what do I need to learn next?**
+
+You aren't trying to force your old career into your new one.
+
+You're trying to avoid throwing away useful experience.
+
+------------------------------------------------------------------------
+
+## 🎯 Why "Bungie Bound"?
+
+Bungie represents the big goal.
+
+It doesn't mean:
+
+> **"Follow this README and Bungie hires you next Tuesday."** 😂
+
+It's simply a destination to work towards.
+
+The important question isn't:
+
+**"How do I get there immediately?"**
+
+It's:
+
+> **"Where am I now, and what's the next gap I need to close?"**
+
+------------------------------------------------------------------------
+
+# 🧭 The Simple Idea
+
+Changing careers doesn't always mean starting from zero.
+
+And years of experience don't automatically qualify you for a senior job
+somewhere new.
+
+So don't assume either one.
+
+**Check the jobs.**
+
+**Find what you already know.**
+
+**Find what's missing.**
+
+**Learn it.**
+
+**Build something.**
+
+**Prove you can do it.**
+
+Then apply.
+
+> ## **Keep what you know. Learn what you don't. Prove what you can do.**
+
+That's **Bungie Bound**.
+
+------------------------------------------------------------------------
+
+## 🐍 Python Version
+
+A simple Python file can be used to explore the job data:
+
+[View `career_roadmap.py`](career_roadmap.py)
+
+------------------------------------------------------------------------
+
+## Disclaimer
+
+A personal career and data project. Job requirements change, and no
+career path is guaranteed.
+
+## Credits
+
+**Idea & analysis:** Wansaidon\
+**Written with:** ChatGPT by OpenAI
+
+------------------------------------------------------------------------
+
+***Changing direction doesn't always mean starting again.***
