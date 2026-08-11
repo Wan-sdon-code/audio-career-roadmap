@@ -9,8 +9,11 @@ Probably not.
 a bigger question:
 
 > ## **When we change careers, what skills can we bring with us --- and what do we still need to learn?**
+---
 
-------------------------------------------------------------------------
+![Bungie Bound](./bungie.png)
+
+---
 
 ## 🔄 Changing Career Doesn't Delete Your Experience
 
