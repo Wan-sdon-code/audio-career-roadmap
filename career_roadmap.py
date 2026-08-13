@@ -1,11 +1,13 @@
-# 🎮 Bungie Bound — Do You Really Start From Zero?
+# 🎮 Bungie Bound
+# Career Switch Check
 # Idea & analysis: Wansaidon
 
 print("🎮 BUNGIE BOUND")
-print("Career Switch Check")
+print("Change Career Means Start From Zero Meh?")
 print("=" * 40)
 
-# Example skills from an old career
+# Example skills from my old career
+
 my_skills = [
     "Recording",
     "Editing",
@@ -14,45 +16,35 @@ my_skills = [
     "Leadership"
 ]
 
-# Example skills found in game-audio jobs
+# Example skills wanted in game audio
+
 job_skills = [
     "Sound Design",
     "Wwise",
-    "Unreal",
+    "Unreal Engine",
     "Teamwork",
     "Problem Solving"
 ]
 
-print("\n🧠 WHAT I ALREADY KNOW")
+# Compare the skills
 
-for skill in my_skills:
-    print(f"• {skill}")
-
-print("\n🎮 WHAT THE NEW JOB WANTS")
-
-for skill in job_skills:
-    print(f"• {skill}")
-
-# Compare both lists
-transferable = []
-missing = []
+already_have = []
+need_to_learn = []
 
 for skill in job_skills:
     if skill in my_skills:
-        transferable.append(skill)
+        already_have.append(skill)
     else:
-        missing.append(skill)
+        need_to_learn.append(skill)
 
-print("\n" + "=" * 40)
+print("\n✅ ALREADY HAVE")
 
-print("\n✅ SKILLS I CAN BRING WITH ME")
-
-for skill in transferable:
+for skill in already_have:
     print(f"• {skill}")
 
-print("\n⚠️ SKILLS I STILL NEED TO LEARN")
+print("\n🔒 NEED TO LEARN")
 
-for skill in missing:
+for skill in need_to_learn:
     print(f"• {skill}")
 
 print("\n" + "=" * 40)
@@ -60,16 +52,13 @@ print("\n" + "=" * 40)
 print("\n🛣️ SIMPLE PATH")
 print("Keep what I know")
 print("↓")
-print("Find what's missing")
-print("↓")
-print("Learn it")
+print("Learn what's missing")
 print("↓")
 print("Build something")
 print("↓")
-print("Prove I can do it")
+print("Show what I can do")
 print("↓")
 print("Apply")
 
 print("\n🎯 FINAL THOUGHT")
-print("Changing careers doesn't always mean starting from zero.")
-print("Keep what you know. Learn what you don't. Prove what you can do.")
+print("New
