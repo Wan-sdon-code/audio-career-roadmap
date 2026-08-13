@@ -1,220 +1,127 @@
-# 🎮 Bungie Bound --- Do You Really Start From Zero?
+# 🎮 Bungie Bound — Change Career Means Start From Zero Meh?
 
-> **You've worked for years. Then you decide to change industries. Does
-> everything you've learned suddenly become useless?**
+> **You've worked for years. Then you want to change career.  
+> Suddenly every job asks for experience.**
+>
+> **Wah... all my old experience useless already ah?** 😂
 
-Probably not.
+That's the idea behind **Bungie Bound**.
 
-**Bungie Bound** uses moving from **audio work into gaming** to explore
-a bigger question:
+My example uses moving from **audio into game audio**, but the same
+question can apply to anyone changing careers.
 
-> ## **When we change careers, what skills can we bring with us --- and what do we still need to learn?**
 ---
 
 ![Bungie Bound](./bungie.png)
 
 ---
 
-## 🔄 Changing Career Doesn't Delete Your Experience
+## 🔄 You Don't Come Empty-Handed
 
-Imagine you've worked for 10 years.
+Changing industry doesn't erase everything you learned.
 
-Then you decide:
+Your old job may have taught you:
 
-> **"I want to do something different."**
+**🤝 Teamwork**
 
-Suddenly you're looking at jobs asking for skills you've never used.
+**🧠 Problem solving**
 
-And you think:
+**🔥 Handling pressure**
 
-> **"Wah... back to level 1 again ah?"** 😂
+**👥 Leadership**
 
-Maybe not.
+**🗣️ Working with people**
 
-Your old job may have already taught you useful things.
+These skills may still be useful.
 
-For someone coming from audio, that could be:
+But the new job will also have things you don't know yet.
 
-**Recording. Editing. Problem solving. Teamwork. Working under pressure.
-Leading people.**
+---
 
-Someone from another industry will have their own skills.
+## 🔍 So Check the Jobs
 
-The question is:
+Instead of anyhow taking courses:
 
-> **Which ones are useful in the new career?**
+**What skills do employers want?**
 
-------------------------------------------------------------------------
+**What do I already have?**
 
-## 🔍 Don't Guess --- Check the Jobs
+**What am I missing?**
 
-For Bungie Bound, I'll look at real game-audio job ads.
+Then:
 
-I'll check simple things:
+### ✅ Already Have
+Keep it.
 
-**What jobs are available?**
+### 🔒 Don't Have
+Learn it.
 
-**What skills do they ask for?**
+Simple.
 
-**What software appears most often?**
+> **Don't collect certificates like Pokémon. Learn what you actually need.** 😂
 
-**How much experience do they want?**
+---
 
-**Do they want previous gaming experience?**
+## 🎮 My Example
 
-**Do they want examples of your work?**
+For game audio, I may already have audio experience.
 
-Then I can compare:
+But gaming may ask for things like:
 
-### ✅ What I Already Have
+**Sound Design**
 
-Skills from previous work that may still be useful.
+**Wwise**
 
-### ⚠️ What I'm Missing
+**Unreal Engine**
 
-Skills that employers keep asking for but I haven't learned yet.
+So I'm not asking:
 
-That's much better than randomly taking courses and hoping for the best.
+> **"Am I starting from zero?"**
 
-------------------------------------------------------------------------
+I'm asking:
 
-## 🛣️ The Simple Career-Switching Path
+> ## **"What am I bringing over, and what do I still need to learn?"**
 
-**What I Know**
+---
 
-↓
+# 🏆 The Simple Idea
 
-**What Can Transfer**
-
-↓
-
-**What's Missing**
+**Keep what you know**
 
 ↓
 
-**Learn It**
+**Learn what's missing**
 
 ↓
 
-**Build Something**
+**Build something**
 
 ↓
 
-**Show What I Can Do**
+**Show what you can do**
 
 ↓
 
 **Apply**
 
-That's it.
-
-Having 10 years of experience doesn't automatically mean:
-
-> **"I should enter the new industry as Senior."**
-
-But it also doesn't necessarily mean:
-
-> **"Everything I've done for 10 years is useless."**
-
-The answer is probably somewhere in between.
-
-**That's what the data should help us find out.**
-
-------------------------------------------------------------------------
-
-## 🌍 This Isn't Only About Gaming
-
-The same idea can apply to someone moving from:
-
-**Engineering → Data**
-
-**Hospitality → HR**
-
-**Retail → Sales**
-
-**Operations → Tech**
-
-**Audio → Gaming**
-
-Different careers.
-
-Same question:
-
-> **What can I bring with me, and what do I need to learn next?**
-
-You aren't trying to force your old career into your new one.
-
-You're trying to avoid throwing away useful experience.
-
-------------------------------------------------------------------------
-
-## 🎯 Why "Bungie Bound"?
-
-Bungie represents the big goal.
-
-It doesn't mean:
-
-> **"Follow this README and Bungie hires you next Tuesday."** 😂
-
-It's simply a destination to work towards.
-
-The important question isn't:
-
-**"How do I get there immediately?"**
-
-It's:
-
-> **"Where am I now, and what's the next gap I need to close?"**
-
-------------------------------------------------------------------------
-
-# 🧭 The Simple Idea
-
-Changing careers doesn't always mean starting from zero.
-
-And years of experience don't automatically qualify you for a senior job
-somewhere new.
-
-So don't assume either one.
-
-**Check the jobs.**
-
-**Find what you already know.**
-
-**Find what's missing.**
-
-**Learn it.**
-
-**Build something.**
-
-**Prove you can do it.**
-
-Then apply.
-
-> ## **Keep what you know. Learn what you don't. Prove what you can do.**
+> ## **New career. Same person. Different skills to learn.**
 
 That's **Bungie Bound**.
 
-------------------------------------------------------------------------
+---
 
 ## 🐍 Python Version
 
-A simple Python file can be used to explore the job data:
-
 [View `career_roadmap.py`](career_roadmap.py)
 
-------------------------------------------------------------------------
+---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
-A personal career and data project. Job requirements change, and no
+A personal career and data project. Job requirements change and no
 career path is guaranteed.
 
-## Credits
+## ✍️ Credits
 
-**Idea & analysis:** Wansaidon\
+**Idea & analysis:** Wansaidon  
 **Written with:** ChatGPT by OpenAI
-
-------------------------------------------------------------------------
-
-***Changing direction doesn't always mean starting again.***
