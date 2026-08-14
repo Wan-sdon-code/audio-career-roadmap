@@ -12,7 +12,7 @@ question can apply to anyone changing careers.
 
 ---
 
-![Bungie Bound](./bungie.png)
+![Bungie Bound](./bungiebound.png)
 
 ---
 
